@@ -37,5 +37,5 @@ the time, and more.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/SaurabhKant2/CodeClauseInternship_AssistantwithUI
-cd Voice-Assistant-CodeClause
+git clone https://github.com/SaurabhKant2/CodeClauseInternship_AssistantwithUI.git
+cd CodeClauseInternship_AssistantwithUI
